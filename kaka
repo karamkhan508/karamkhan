@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KaramKhan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #444;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to KaramKhan</h1>
+    <p>Your personal space on the web</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Karam Khan. This is my personal website where I share my work, ideas, and updates.</p>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Here you'll find a showcase of my latest projects and collaborations.</p>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out via email at karam@example.com or follow me on social media.</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 KaramKhan. All rights reserved.</p>
+  </footer>
+</body>
+</html>
